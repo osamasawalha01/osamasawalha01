@@ -28,7 +28,7 @@ Real-time computer vision project using **YOLOv9** and **Flask** to detect fire 
 ---
 
 ## 📬 Connect with me
-- 💼 [LinkedIn]: https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/osamasawalha01/
+- 💼 [LinkedIn]: https://www.linkedin.com/in/osamasawalha01/
 - 📧 Email: osamasawalha00@gmail.com
 
 ---
