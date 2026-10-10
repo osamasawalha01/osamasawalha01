@@ -1,35 +1,85 @@
-# Hi there, I'm Osama Sawalha 👋
-### AI Developer | Full Stack  | Data Enthusiast
+# Hi, I'm Osama Sawalha 👋
 
-I am a passionate developer from Jordan, focused on building intelligent applications and solving real-world problems using AI and Modern Web Technologies.
+### AI & Machine Learning Engineer | MLOps | Python Developer
+
+I'm a Computer Science graduate specializing in **Artificial Intelligence and Data Science**, based in Amman, Jordan.
+
+I build machine learning applications with a focus on turning trained models into usable software systems through APIs, reproducible pipelines, containerization, and automation.
+
+My background combines **machine learning, software development, and cloud technical support**, giving me experience across both model development and practical application infrastructure.
+
+🎯 **Currently focused on:** AI Engineering, MLOps, and production-oriented machine learning systems.
+
+💼 **Open to opportunities:** Junior AI Engineer, Machine Learning Engineer, MLOps Engineer, and Python Software Engineer.
 
 ---
 
 ## 🚀 Featured Projects
 
+### 📦 [Olist Delivery Prediction — End-to-End MLOps](https://github.com/osamasawalha01/olist-delivery-prediction-mlops)
+
+An end-to-end machine learning system for predicting late e-commerce deliveries using historical Olist data.
+
+**Engineering highlights:**
+- Built data preparation, feature engineering, and ML inference pipelines.
+- Developed single and batch prediction APIs using FastAPI.
+- Integrated MLflow model registration and DVC artifact tracking.
+- Containerized services with Docker Compose and PostgreSQL.
+- Added data validation, automated tests, CI/CD, and prediction monitoring.
+
+**Stack:** Python · scikit-learn · FastAPI · MLflow · DVC · Docker · PostgreSQL · GitHub Actions
+
+### 🔥 [Fire & Smoke Detection](https://github.com/osamasawalha01/Fire-Smoke-Detection-using-YOLO-WebApp)
+
+Computer vision application using YOLO and Flask to detect fire and smoke in images.
+
+**Stack:** Python · YOLO · Flask · Computer Vision
+
 ### 🧠 [Brain Tumor Classification](https://github.com/osamasawalha01/brain-tumor-classification-using-ai)
-An advanced AI system using **ResNet50** and **EfficientNet** to classify brain tumors from MRI scans. Includes a **Streamlit** web interface.
 
-### 📊 [Global Cost of Living Analysis](https://github.com/osamasawalha01/global-cost-of-living-analysis)
-Detailed Exploratory Data Analysis (EDA) of 2024 economic indices using **Python**, **Pandas**, and **Seaborn**.
+Deep learning application for MRI image classification using transfer learning and an interactive Streamlit interface.
 
-### 🔥 [Fire & Smoke Detection](https://github.com/osamasawalha01/fire-and-smoke-detection)
-Real-time computer vision project using **YOLOv9** and **Flask** to detect fire hazards.
+**Stack:** TensorFlow · Keras · ResNet50 · EfficientNet · Streamlit
+
+### 💻 [Hospital Management System](https://github.com/osamasawalha01/Hospital-Management-)
+
+Full-stack web application demonstrating backend development, application architecture, and database integration.
+
+**Stack:** ASP.NET · Web Development · Databases
+
+### 📊 [Global Cost of Living Analysis](https://github.com/osamasawalha01/Global-cost-of-living-analysis)
+
+Exploratory data analysis of global economic indicators and cost-of-living patterns.
+
+**Stack:** Python · Pandas · Seaborn · Jupyter
+
+---
+
+## 🛠️ Technical Skills
+
+**AI & Machine Learning:** Python, scikit-learn, TensorFlow, Keras, PyTorch, Computer Vision, Feature Engineering
+
+**MLOps & Engineering:** FastAPI, MLflow, DVC, Docker, GitHub Actions, Pytest, Data Validation, Model Monitoring
+
+**Data & Databases:** PostgreSQL, SQL, Pandas, NumPy, Exploratory Data Analysis
+
+**Software Development:** REST APIs, Flask, ASP.NET Core, Git, GitHub
+
+**Tools:** VS Code, Cursor, Jupyter Notebook, uv, Docker Desktop
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🎓 Education & Certifications
 
-- **AI & Data Science:** TensorFlow, Keras, OpenCV, Pandas, NumPy, Scikit-learn.
-- **Web Development:** ASP.NET Core, Angular, Flask, Streamlit.
-- **Tools:** Git, GitHub, Anaconda, VS Code.
-- **Languages:** Arabic (Native), English (Professional).
+- B.Sc. Computer Science — AI & Data Science specialization (2026)
+- Microsoft Azure AI Fundamentals (AI-900)
 
 ---
 
-## 📬 Connect with me
-- 💼 [LinkedIn]: https://www.linkedin.com/in/osamasawalha01/
-- 📧 Email: osamasawalha00@gmail.com
+## 📫 Let's Connect
 
----
-*“Turning data into insights and ideas into reality.”*
+- **LinkedIn:** [linkedin.com/in/osamasawalha01](https://www.linkedin.com/in/osamasawalha01/)
+- **GitHub:** [github.com/osamasawalha01](https://github.com/osamasawalha01)
+- **Email:** osamasawalha00@gmail.com
+
+I'm interested in opportunities to build reliable AI applications, develop machine learning systems, and solve practical engineering problems.
